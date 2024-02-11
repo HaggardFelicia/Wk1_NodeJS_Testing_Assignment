@@ -13,5 +13,5 @@
 
 ## ***Deliverable:***
 
-- [ ] Submit your Zoom video or YouTube link directly below of you running your test in your IDE.
-- [ ] Submit a link to your GitHub repository.
+- [x] Submit your Zoom video or YouTube link directly below of you running your test in your IDE.
+- [x] Submit a link to your GitHub repository.
